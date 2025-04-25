@@ -1,0 +1,9 @@
+[
+    {
+        "title": "defef",
+        "author": "F. Scott Fitzgerald",
+        "year": 23,
+        "genre": "friction",
+        "read": false
+    }
+]
